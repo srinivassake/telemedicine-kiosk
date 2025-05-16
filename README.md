@@ -1,7 +1,7 @@
 # An LLM for Telemedicine KIOSK
 
 <div align="center">
-  <img src="https://huggingface.co/savinirsekas/MediTalk-300-Mistral-7B-4bit/resolve/main/thumbnail.png" alt="MediTalk-300 Logo" width="200"/>
+  <img src="https://camo.githubusercontent.com/077912cba2e31a783773c103f87e9e52eead44be2550c753409e7fe5c85ecfad/68747470733a2f2f68756767696e67666163652e636f2f736176696e697273656b61732f4d65646954616c6b2d3330302d4d69737472616c2d37422d346269742f7265736f6c76652f6d61696e2f7468756d626e61696c2e706e67" alt="MediTalk-300 Logo" width="200"/>
   
   [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   [![Model Size](https://img.shields.io/badge/Model%20Size-3.87B%20params-brightgreen)](https://huggingface.co/savinirsekas/MediTalk-300-Mistral-7B-4bit)
