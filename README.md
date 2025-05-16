@@ -1,7 +1,7 @@
 # An LLM for Telemedicine KIOSK
 
 <div align="center">
-  <img src="https://github.com/srinivassake/telemedicine-kiosk/blob/main/Screenshot.png" width="200"/>
+  <img src="https://github.com/srinivassake/telemedicine-kiosk/blob/main/Screenshot.png" width="400"/>
   
   [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   [![Model Size](https://img.shields.io/badge/Model%20Size-3.87B%20params-brightgreen)](https://huggingface.co/savinirsekas/MediTalk-300-Mistral-7B-4bit)
